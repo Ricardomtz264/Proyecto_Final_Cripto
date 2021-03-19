@@ -1,0 +1,8 @@
+chacha.c:5:20:u32t8le	16	static
+chacha.c:12:24:u8t32le	24	static
+chacha.c:22:24:rotl32	16	static
+chacha.c:28:13:chacha20_quarterround	32	static
+chacha.c:35:13:chacha20_serialize	24	static
+chacha.c:42:13:chacha20_block	104	static
+chacha.c:67:13:chacha20_init_state	40	static
+chacha.c:88:6:ChaCha20XOR	160	static
